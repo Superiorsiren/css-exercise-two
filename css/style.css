@@ -87,7 +87,7 @@ a {
 }
 
 a:link {
-  color:#ff9500;
+  color:#ffffff;
   } /* unvisited */
 a:visited {
   color:#000000;
@@ -96,5 +96,5 @@ a:hover {
   color:#ff9500;
   } /* mouse over */
 a:active {
-  color:#ff9500;
+  color:#blue;
   } /* selected */
